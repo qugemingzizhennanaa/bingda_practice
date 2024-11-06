@@ -1,0 +1,2 @@
+bingda_practices
+-DCATKIN_DEVEL_PREFIX=/home/cxy/GitProjects/bingda_practices/bingda_practice/devel -DCMAKE_INSTALL_PREFIX=/home/cxy/GitProjects/bingda_practices/bingda_practice/install -G Unix Makefiles

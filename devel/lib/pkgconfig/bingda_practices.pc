@@ -1,0 +1,8 @@
+prefix=/home/cxy/GitProjects/bingda_practices/bingda_practice/devel
+
+Name: bingda_practices
+Description: Description of bingda_practices
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
